@@ -4,6 +4,10 @@ This file is used to list changes made in each version of the Java cookbook.
 
 ## Unreleased
 
+- Update Temurin support
+- Add script to check for Java updates
+- Remove Java 8 support
+
 ## 12.1.1 - *2024-12-05*
 
 ## 12.1.0 - *2024-12-03*
